@@ -1,2 +1,2 @@
-# custom_user_client_exceptions
-Exception Class in Python for User Client Exceptions
+# custom_client_exceptions
+Exception Class in Python for bad client requests
